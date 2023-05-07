@@ -1,4 +1,4 @@
-package IngSis.snippetapi
+package ingsis.snippetapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

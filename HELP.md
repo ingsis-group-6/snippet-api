@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'IngSis.snippet-api' is invalid and this project uses 'IngSis.snippetapi' instead.
+* The original package name 'ingsis.snippet-api' is invalid and this project uses 'ingsis.snippetapi' instead.
 
 # Getting Started
 
